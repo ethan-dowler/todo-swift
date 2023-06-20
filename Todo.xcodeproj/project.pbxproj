@@ -19,6 +19,7 @@
 		BE9B00162A42434A0009F7C5 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		BE9B00182A42434C0009F7C5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BE9B001B2A42434C0009F7C5 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		BE9B00222A42435A0009F7C5 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,6 +36,7 @@
 		BE9B00082A42434A0009F7C5 = {
 			isa = PBXGroup;
 			children = (
+				BE9B00222A42435A0009F7C5 /* README.md */,
 				BE9B00132A42434A0009F7C5 /* Todo */,
 				BE9B00122A42434A0009F7C5 /* Products */,
 			);
